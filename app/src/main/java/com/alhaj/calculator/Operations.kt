@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.alhaj.calculator
 
 enum class Operations {
     PLUS,MINUS,DIVIDE,INTO

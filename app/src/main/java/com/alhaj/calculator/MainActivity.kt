@@ -1,4 +1,4 @@
-package com.example.calculator
+package com.alhaj.calculator
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
 import android.text.method.ScrollingMovementMethod
+import com.example.calculator.R
 
 class MainActivity : AppCompatActivity() {
 
@@ -126,7 +127,7 @@ class MainActivity : AppCompatActivity() {
         lastOperation = null
     }
 
-    fun operationSelected(operation:Operations){
+    fun operationSelected(operation: Operations){
         try {
             if (lastOperation != null && !operationClicked) {
                 val temp = when (lastOperation) {

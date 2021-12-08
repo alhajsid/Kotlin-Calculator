@@ -22,33 +22,33 @@
 
             <TextView
                 android:id="@+id/tv_ac"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_2_color"
                 android:text="C" />
 
             <TextView
                 android:id="@+id/tv_plus_minus"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_2_color"
                 android:text="+/-" />
 
             <TextView
                 android:id="@+id/tv_percentage"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_2_color"
                 android:text="%" />
 
             <TextView
                 android:id="@+id/tv_divide"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_3_color"
                 android:text="÷" />
 
@@ -60,30 +60,30 @@
 
             <TextView
                 android:id="@+id/tv_7"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="7" />
 
             <TextView
                 android:id="@+id/tv_8"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="8" />
 
             <TextView
                 android:id="@+id/tv_9"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="9" />
 
             <TextView
                 android:id="@+id/tv_into"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_3_color"
                 android:text="X" />
 
@@ -95,30 +95,30 @@
 
             <TextView
                 android:id="@+id/tv_4"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="4" />
 
             <TextView
                 android:id="@+id/tv_5"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="5" />
 
             <TextView
                 android:id="@+id/tv_6"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="6" />
 
             <TextView
                 android:id="@+id/tv_minus"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_3_color"
                 android:text="-" />
 
@@ -130,30 +130,30 @@
 
             <TextView
                 android:id="@+id/tv_1"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="1" />
 
             <TextView
                 android:id="@+id/tv_2"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="2" />
 
             <TextView
                 android:id="@+id/tv_3"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="3" />
 
             <TextView
                 android:id="@+id/tv_plus"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_3_color"
                 android:text="+" />
 
@@ -165,25 +165,25 @@
 
             <TextView
                 android:id="@+id/tv_0"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:layout_weight="2"
                 android:background="@drawable/btn_background_zero"
                 android:text="0" />
 
             <TextView
                 android:id="@+id/tv_dot"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:text="." />
 
             <TextView
                 android:id="@+id/tv_equal"
-                style="@style/btn_style"
+                style="@style/btn_style_old"
                 android:layout_width="0dp"
-                android:layout_height="@dimen/btn_height"
+                android:layout_height="@dimen/btn_height_old"
                 android:backgroundTint="@color/button_3_color"
                 android:text="=" />
 

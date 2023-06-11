@@ -25,6 +25,8 @@ class MainActivity : AppCompatActivity() {
 
         this.requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_PORTRAIT
 
+
+
     }
 
     private fun setOnClickListeners() {
